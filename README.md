@@ -13,7 +13,7 @@ This project is aimed at reverse-engineering and analysis workflows where you wa
 
 The app is implemented as a single Python/Tkinter GUI and uses only the Python standard library.
 
-![Flipper Sub-GHz RAW Analyzer screenshot](/C:/Users/Joe/Projects/flipper-subghz-analyzer/screenshot.jpg)
+![Flipper Sub-GHz RAW Analyzer screenshot](https://raw.githubusercontent.com/jsammarco/flipper-subghz-analyzer/refs/heads/main/screenshot.jpg)
 
 ## What It Does
 
